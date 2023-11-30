@@ -1,0 +1,273 @@
+export const categories = [
+    {
+        "id": "R31050P51",
+        "name": "Menus & Chicken Mix",
+        "description": [],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_pizza/pizza_americanpizza",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "R7NRRQQR71",
+            "R1NRRQQR71",
+            "R03RRQQR71",
+            "RONRRQQR71",
+            "R33RRQQR71",
+            "RP3RRQQR71",
+            "RR3RRQQR71",
+            "RNORRQQR71"
+        ]
+    },
+    {
+        "id": "RP1050P51",
+        "name": "The BOX",
+        "description": [],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_pizza/pizza_pizza",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "R5ORRQQR71",
+            "RQORRQQR71",
+            "R15RRQQR71",
+            "RO5RRQQR71",
+            "R75RRQQR71",
+            "R0PRRQQR71"
+        ]
+    },
+    {
+        "id": "RR1050P51",
+        "name": "Voorgerechten",
+        "description": [],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_baguette/baguette_knoblauch",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "R3PRRQQR71",
+            "RPPRRQQR71",
+            "RRPRRQQR71",
+            "RN7RRQQR71",
+            "R0N00RQR71",
+            "RPRRRQQR71",
+            "RRRRRQQR71",
+            "RN000RQR71",
+            "R5000RQR71",
+            "RQ000RQR71",
+            "R707O50OQ1",
+            "R017O50OQ1",
+            "R317O50OQ1",
+            "RP17O50OQ1",
+            "RR17O50OQ1",
+            "RNN7O50OQ1",
+            "R5N7O50OQ1",
+            "R1100RQR71",
+            "RO100RQR71",
+            "R7100RQR71"
+        ]
+    },
+    {
+        "id": "RNN050P51",
+        "name": "Pan pizza medium",
+        "description": [
+            "Het deeg van de pan pizza's wordt gebakken in de pan."
+        ],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_pizza/pizza_steinofenpizza",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "R3N00RQR71",
+            "RPN00RQR71",
+            "RRN00RQR71",
+            "RN300RQR71",
+            "R5300RQR71",
+            "RQ300RQR71",
+            "R1O00RQR71",
+            "ROO00RQR71",
+            "R7O00RQR71",
+            "R0500RQR71",
+            "R3500RQR71",
+            "RP500RQR71",
+            "RR500RQR71",
+            "RNP00RQR71",
+            "R0Q00RQR71",
+            "R5P00RQR71",
+            "RQP00RQR71",
+            "R1700RQR71",
+            "RO700RQR71",
+            "QO3RNO30Q1",
+            "R730RQQOQ1"
+        ]
+    },
+    {
+        "id": "R5N050P51",
+        "name": "Classic pizza medium",
+        "description": [
+            "De classic pizza's hebben een dunne bodem."
+        ],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_pizza/pizza_pizzabaukasten",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "RPQ00RQR71",
+            "RRQ00RQR71",
+            "RNR00RQR71",
+            "R5R00RQR71",
+            "RQR00RQR71",
+            "R1010RQR71",
+            "RO010RQR71",
+            "R7010RQR71",
+            "R0110RQR71",
+            "R3110RQR71",
+            "RP110RQR71",
+            "RR110RQR71",
+            "RNN10RQR71",
+            "R5N10RQR71",
+            "R3O10RQR71",
+            "RQN10RQR71",
+            "R1310RQR71",
+            "RO310RQR71",
+            "R7310RQR71",
+            "QNOP3O30Q1",
+            "R3570RQOQ1"
+        ]
+    },
+    {
+        "id": "RQN050P51",
+        "name": "Pan pizza large",
+        "description": [
+            "Het deeg van de pan pizza's wordt gebakken in de pan."
+        ],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/aktionen/pizza_specials_1315393850",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "RRO10RQR71",
+            "RN510RQR71",
+            "R5510RQR71",
+            "RQ510RQR71",
+            "R1P10RQR71",
+            "ROP10RQR71",
+            "R7P10RQR71",
+            "R0710RQR71",
+            "R3710RQR71",
+            "RP710RQR71",
+            "RR710RQR71",
+            "RNQ10RQR71",
+            "R5Q10RQR71",
+            "RQQ10RQR71",
+            "RP0N0RQR71",
+            "R1R10RQR71",
+            "ROR10RQR71",
+            "R7R10RQR71",
+            "R00N0RQR71",
+            "Q5O03O30Q1",
+            "R7770RQOQ1"
+        ]
+    },
+    {
+        "id": "R13050P51",
+        "name": "Classic pizza large",
+        "description": [
+            "De classic pizza's hebben een dunne bodem"
+        ],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/pizza/american_1274881030",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "RN1N0RQR71",
+            "R51N0RQR71",
+            "RQ1N0RQR71",
+            "R1NN0RQR71",
+            "RONN0RQR71",
+            "R7NN0RQR71",
+            "R03N0RQR71",
+            "R33N0RQR71",
+            "RP3N0RQR71",
+            "RR3N0RQR71",
+            "RNON0RQR71",
+            "R5ON0RQR71",
+            "RQON0RQR71",
+            "R15N0RQR71",
+            "RRPN0RQR71",
+            "RO5N0RQR71",
+            "R75N0RQR71",
+            "R0PN0RQR71",
+            "R3PN0RQR71",
+            "Q0573O30Q1",
+            "RQR70RQOQ1"
+        ]
+    },
+    {
+        "id": "RO3050P51",
+        "name": "Cheesy crust pizza large",
+        "description": [
+            "cheezy crust pizza's hebben een dunne bodem met een korst vol kaas, enkel in large formaat verkrijgbaar"
+        ],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_pizza/pizza_steinofenpizza2",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "R57N0RQR71",
+            "RQ7N0RQR71",
+            "R1QN0RQR71",
+            "R7QN0RQR71",
+            "ROQN0RQR71",
+            "R1130RQR71",
+            "RN030RQR71",
+            "R5030RQR71",
+            "RQ030RQR71",
+            "R0RN0RQR71",
+            "R3RN0RQR71",
+            "RPRN0RQR71",
+            "RN330RQR71",
+            "RO130RQR71",
+            "RRRN0RQR71",
+            "R7130RQR71",
+            "R0N30RQR71",
+            "QO0Q3O30Q1",
+            "RPN30RQR71",
+            "ROPQ0RQOQ1",
+            "R3N30RQR71"
+        ]
+    },
+    {
+        "id": "R0O050P51",
+        "name": "Desserten",
+        "description": [],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/1_dessert/dessert_brownie",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "R1O30RQR71",
+            "ROO30RQR71",
+            "R7O30RQR71",
+            "R0530RQR71",
+            "R3530RQR71",
+            "RP530RQR71"
+        ]
+    },
+    {
+        "id": "R3O050P51",
+        "name": "Dranken",
+        "description": [],
+        "imageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1701342770/static-takeaway-com/images/generic/categories/drinks/soft_1321028849",
+        "overviewImageUrl": null,
+        "timeRestrictions": {},
+        "productIds": [
+            "RR530RQR71",
+            "RNP30RQR71",
+            "R5P30RQR71",
+            "RQP30RQR71",
+            "R1730RQR71",
+            "RO730RQR71",
+            "R7730RQR71",
+            "R0Q30RQR71",
+            "R3Q30RQR71",
+            "RPQ30RQR71",
+            "RRQ30RQR71",
+            "RNR30RQR71",
+            "R5R30RQR71",
+            "RQR30RQR71",
+            "R10O0RQR71",
+            "RO0O0RQR71"
+        ]
+    }
+]
